@@ -1,3 +1,3 @@
-#Chess game
+# Nonogram game
 
-Chess game C# and WinForms
+Nonogram game C# and WinForms

@@ -1,0 +1,27 @@
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.exe.config
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.exe
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\bin\Debug\Nonograms.pdb
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.csprojResolveAssemblyReference.cache
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.VisualBoard.resources
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.Properties.Resources.resources
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.csproj.GenerateResource.Cache
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.exe
+c:\users\astu\documents\visual studio 2013\Projects\Nonograms\Nonograms\obj\Debug\Nonograms.pdb
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\bin\Debug\Nonograms.exe.config
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.exe
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.pdb
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\bin\Debug\Nonograms.exe
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\bin\Debug\Nonograms.pdb
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.csprojResolveAssemblyReference.cache
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.VisualBoard.resources
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.Properties.Resources.resources
+C:\Users\A\Downloads\Nonograms\Nonograms\Nonograms\obj\Debug\Nonograms.csproj.GenerateResource.Cache
+D:\Dropbox\Курсовая\Nonograms\Nonograms\bin\Debug\Nonograms.exe.config
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.exe
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.pdb
+D:\Dropbox\Курсовая\Nonograms\Nonograms\bin\Debug\Nonograms.exe
+D:\Dropbox\Курсовая\Nonograms\Nonograms\bin\Debug\Nonograms.pdb
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.csprojResolveAssemblyReference.cache
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.VisualBoard.resources
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.Properties.Resources.resources
+D:\Dropbox\Курсовая\Nonograms\Nonograms\obj\Debug\Nonograms.csproj.GenerateResource.Cache
